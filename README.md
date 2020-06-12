@@ -10,8 +10,11 @@
 電源と信号線を繋ぐだけで、直ぐにタッチセンサ（スイッチ）として利用する事が出来る  
 静電容量式のタッチスイッチモジュールです。  
 
-
 ## 製品の詳細は[こちら](https://bit-trade-one.co.jp/product/module/ad00010/)!
+
+## マニュアルは[こちら](https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle/blob/master/Manual/maru_man.pdf)
+
+## ファームウェアソースは[こちら](https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle/blob/master/Firmware_source/mtouch_maru_v002.zip)
 
 ## 製品仕様
 
